@@ -246,3 +246,6 @@ This repository serves as the official landing page for Nexus Radio. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Nexus Radio today!**
+
+---
+**Last updated:** 2026-09-12 04:09:02 UTC
