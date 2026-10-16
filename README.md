@@ -248,4 +248,4 @@ This repository serves as the official landing page for Nexus Radio. The softwar
 **Get the most recent version of Nexus Radio today!**
 
 ---
-**Last updated:** 2026-10-16 17:16:42 UTC
+**Last updated:** 2026-10-16 20:49:20 UTC
